@@ -1,0 +1,291 @@
+{
+get: "teams/statistics"
+parameters: {
+league: "61"
+season: "2023"
+team: "79"
+}
+errors: [
+]
+results: 11
+paging: {
+current: 1
+total: 1
+}
+response: {
+league: {
+id: 61
+name: "Ligue 1"
+country: "France"
+logo: "https://media.api-sports.io/football/leagues/61.png"
+flag: "https://media.api-sports.io/flags/fr.svg"
+season: 2023
+}
+team: {
+id: 79
+name: "Lille"
+logo: "https://media.api-sports.io/football/teams/79.png"
+}
+form: "DWLWDLWDWWDDWWDDLWD"
+fixtures: {
+played: {
+home: 9
+away: 10
+total: 19
+}
+wins: {
+home: 6
+away: 2
+total: 8
+}
+draws: {
+home: 2
+away: 6
+total: 8
+}
+loses: {
+home: 1
+away: 2
+total: 3
+}
+}
+goals: {
+for: {
+total: {
+home: 14
+away: 10
+total: 24
+}
+average: {
+home: "1.6"
+away: "1.0"
+total: "1.3"
+}
+minute: {
+0-15: {
+total: 2
+percentage: "8.70%"
+}
+16-30: {
+total: 2
+percentage: "8.70%"
+}
+31-45: {
+total: 7
+percentage: "30.43%"
+}
+46-60: {
+total: 4
+percentage: "17.39%"
+}
+61-75: {
+total: 2
+percentage: "8.70%"
+}
+76-90: {
+total: 2
+percentage: "8.70%"
+}
+91-105: {
+total: 4
+percentage: "17.39%"
+}
+106-120: {
+total: null
+percentage: null
+}
+}
+}
+against: {
+total: {
+home: 4
+away: 10
+total: 14
+}
+average: {
+home: "0.4"
+away: "1.0"
+total: "0.7"
+}
+minute: {
+0-15: {
+total: 3
+percentage: "20.00%"
+}
+16-30: {
+total: 3
+percentage: "20.00%"
+}
+31-45: {
+total: null
+percentage: null
+}
+46-60: {
+total: 1
+percentage: "6.67%"
+}
+61-75: {
+total: 6
+percentage: "40.00%"
+}
+76-90: {
+total: 2
+percentage: "13.33%"
+}
+91-105: {
+total: null
+percentage: null
+}
+106-120: {
+total: null
+percentage: null
+}
+}
+}
+}
+biggest: {
+streak: {
+wins: 2
+draws: 2
+loses: 1
+}
+wins: {
+home: "3-0"
+away: "0-2"
+}
+loses: {
+home: "1-2"
+away: "4-1"
+}
+goals: {
+for: {
+home: 3
+away: 2
+}
+against: {
+home: 2
+away: 4
+}
+}
+}
+clean_sheet: {
+home: 6
+away: 5
+total: 11
+}
+failed_to_score: {
+home: 0
+away: 3
+total: 3
+}
+penalty: {
+scored: {
+total: 1
+percentage: "100.00%"
+}
+missed: {
+total: 0
+percentage: "0%"
+}
+total: 1
+}
+lineups: [
+{
+formation: "4-2-3-1"
+played: 18
+}
+{
+formation: "3-4-3"
+played: 1
+}
+]
+cards: {
+yellow: {
+0-15: {
+total: 2
+percentage: "5.41%"
+}
+16-30: {
+total: 4
+percentage: "10.81%"
+}
+31-45: {
+total: 7
+percentage: "18.92%"
+}
+46-60: {
+total: 7
+percentage: "18.92%"
+}
+61-75: {
+total: 10
+percentage: "27.03%"
+}
+76-90: {
+total: 6
+percentage: "16.22%"
+}
+91-105: {
+total: 1
+percentage: "2.70%"
+}
+106-120: {
+total: null
+percentage: null
+}
+}
+red: {
+0-15: {
+total: null
+percentage: null
+}
+16-30: {
+total: null
+percentage: null
+}
+31-45: {
+total: null
+percentage: null
+}
+46-60: {
+total: 1
+percentage: "50.00%"
+}
+61-75: {
+total: null
+percentage: null
+}
+76-90: {
+total: 1
+percentage: "50.00%"
+}
+91-105: {
+total: null
+percentage: null
+}
+106-120: {
+total: null
+percentage: null
+}
+}
+}
+}
+}
+2022© Api-Sports
+Quick Actions
+User Profile
+Nino GUEGUEN
+ninogueguen16@gmail.com
+My Profile
+Account settings and more
+My Access
+Api-Key and active subscriptions
+My Transactions
+Transactions and invoices
+My Scripts
+File generation
+Quota Alerts
+Track your Apis consumption
+Recent Notifications 0
+0 Notifications
+

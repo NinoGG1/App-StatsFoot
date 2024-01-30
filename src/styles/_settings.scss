@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "font-1";
+}
+
+$font1: "font1", sans-serif;
+
+$color1: #61dafb;
+$color2: salmon;
+$color3: #282c34;
+$white1: rgb(243, 243, 243);
+
+@mixin verticalCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $white1;
+  font-family: $font1;
+  // @include verticalCenter;
+}
+li {
+  list-style-type: none;
+}

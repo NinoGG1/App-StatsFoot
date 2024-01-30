@@ -1,0 +1,2787 @@
+{
+  "leagues": [
+    {
+      "id": "66",
+      "name": "Coupe de France",
+      "country": "France",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/66.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    {
+      "id": "61",
+      "name": "Ligue 1",
+      "country": "France",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    {
+      "id": "62",
+      "name": "Ligue 2",
+      "country": "France",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/62.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    }
+  ],
+  "fixturesL1": [
+    {
+      "0": {
+        "id": 1044881,
+        "date": "2023-08-12T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 97,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "1": {
+        "id": 1044882,
+        "date": "2023-08-13T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 80,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "2": {
+        "id": 1044883,
+        "date": "2023-08-13T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 112,
+        "goalsHome": 5,
+        "goalsAway": 1
+      },
+      "3": {
+        "id": 1044884,
+        "date": "2023-08-12T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 93,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "4": {
+        "id": 1044885,
+        "date": "2023-08-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 79,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "5": {
+        "id": 1044886,
+        "date": "2023-08-13T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 91,
+        "goalsHome": 2,
+        "goalsAway": 4
+      },
+      "6": {
+        "id": 1044887,
+        "date": "2023-08-13T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 96,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "7": {
+        "id": 1044888,
+        "date": "2023-08-13T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 111,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "8": {
+        "id": 1044889,
+        "date": "2023-08-13T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 116,
+        "goalsHome": 3,
+        "goalsAway": 2
+      },
+      "9": {
+        "id": 1044890,
+        "date": "2023-08-19T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 85,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "10": {
+        "id": 1044891,
+        "date": "2023-08-20T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 84,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "11": {
+        "id": 1044892,
+        "date": "2023-08-20T17:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 95,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "12": {
+        "id": 1044893,
+        "date": "2023-08-20T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 83,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "13": {
+        "id": 1044894,
+        "date": "2023-08-19T17:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 82,
+        "goalsHome": 1,
+        "goalsAway": 4
+      },
+      "14": {
+        "id": 1044895,
+        "date": "2023-08-20T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 99,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "15": {
+        "id": 1044896,
+        "date": "2023-08-20T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 94,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "16": {
+        "id": 1044897,
+        "date": "2023-08-20T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 106,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "17": {
+        "id": 1044898,
+        "date": "2023-08-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 81,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "18": {
+        "id": 1044899,
+        "date": "2023-08-26T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 116,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "19": {
+        "id": 1044900,
+        "date": "2023-08-27T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 96,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "20": {
+        "id": 1044901,
+        "date": "2023-08-27T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 111,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "21": {
+        "id": 1044902,
+        "date": "2023-08-26T17:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 106,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "22": {
+        "id": 1044903,
+        "date": "2023-08-27T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 79,
+        "goalsHome": 4,
+        "goalsAway": 1
+      },
+      "23": {
+        "id": 1044904,
+        "date": "2023-08-27T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 80,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "24": {
+        "id": 1044905,
+        "date": "2023-08-27T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 112,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "25": {
+        "id": 1044906,
+        "date": "2023-08-25T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 91,
+        "goalsHome": 3,
+        "goalsAway": 3
+      },
+      "26": {
+        "id": 1044907,
+        "date": "2023-08-27T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 93,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "27": {
+        "id": 1044908,
+        "date": "2023-09-03T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 99,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "28": {
+        "id": 1044909,
+        "date": "2023-09-02T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 116,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "29": {
+        "id": 1044910,
+        "date": "2023-09-03T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 82,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "30": {
+        "id": 1044911,
+        "date": "2023-09-03T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 85,
+        "goalsHome": 1,
+        "goalsAway": 4
+      },
+      "31": {
+        "id": 1044912,
+        "date": "2023-09-03T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 95,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "32": {
+        "id": 1044913,
+        "date": "2023-09-01T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 81,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "33": {
+        "id": 1044914,
+        "date": "2023-09-03T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 97,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "34": {
+        "id": 1044915,
+        "date": "2023-09-03T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 93,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "35": {
+        "id": 1044916,
+        "date": "2023-09-02T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 94,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "36": {
+        "id": 1044917,
+        "date": "2023-09-15T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 84,
+        "goalsHome": 2,
+        "goalsAway": 3
+      },
+      "37": {
+        "id": 1044918,
+        "date": "2023-09-17T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 82,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "38": {
+        "id": 1044919,
+        "date": "2023-09-16T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 79,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "39": {
+        "id": 1044920,
+        "date": "2023-09-17T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 96,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "40": {
+        "id": 1044921,
+        "date": "2023-09-17T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 91,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "41": {
+        "id": 1044922,
+        "date": "2023-09-17T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 111,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "42": {
+        "id": 1044923,
+        "date": "2023-09-17T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 83,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "43": {
+        "id": 1044924,
+        "date": "2023-09-17T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 106,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "44": {
+        "id": 1044925,
+        "date": "2023-09-16T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 112,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "45": {
+        "id": 1044926,
+        "date": "2023-09-24T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 81,
+        "goalsHome": 4,
+        "goalsAway": 0
+      },
+      "46": {
+        "id": 1044927,
+        "date": "2023-09-22T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 84,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "47": {
+        "id": 1044928,
+        "date": "2023-09-26T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 93,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "48": {
+        "id": 1044929,
+        "date": "2023-09-24T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 96,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "49": {
+        "id": 1044930,
+        "date": "2023-09-23T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 97,
+        "goalsHome": 5,
+        "goalsAway": 3
+      },
+      "50": {
+        "id": 1044931,
+        "date": "2023-09-24T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 99,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "51": {
+        "id": 1044932,
+        "date": "2023-09-24T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 95,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "52": {
+        "id": 1044933,
+        "date": "2023-09-24T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 94,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "53": {
+        "id": 1044934,
+        "date": "2023-09-23T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 80,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "54": {
+        "id": 1044935,
+        "date": "2023-09-29T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "55": {
+        "id": 1044936,
+        "date": "2023-10-01T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 83,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "56": {
+        "id": 1044937,
+        "date": "2023-10-01T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 112,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "57": {
+        "id": 1044938,
+        "date": "2023-10-01T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 82,
+        "goalsHome": 0,
+        "goalsAway": 3
+      },
+      "58": {
+        "id": 1044939,
+        "date": "2023-09-30T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 81,
+        "goalsHome": 3,
+        "goalsAway": 2
+      },
+      "59": {
+        "id": 1044940,
+        "date": "2023-10-01T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 106,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "60": {
+        "id": 1044941,
+        "date": "2023-09-30T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 85,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "61": {
+        "id": 1044942,
+        "date": "2023-10-01T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 80,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "62": {
+        "id": 1044943,
+        "date": "2023-10-01T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 79,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "63": {
+        "id": 1044944,
+        "date": "2023-10-06T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 83,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "64": {
+        "id": 1044945,
+        "date": "2023-10-08T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 85,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "65": {
+        "id": 1044946,
+        "date": "2023-10-08T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 111,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "66": {
+        "id": 1044947,
+        "date": "2023-10-08T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 97,
+        "goalsHome": 3,
+        "goalsAway": 3
+      },
+      "67": {
+        "id": 1044948,
+        "date": "2023-10-07T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 91,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "68": {
+        "id": 1044949,
+        "date": "2023-10-08T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 79,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "69": {
+        "id": 1044950,
+        "date": "2023-10-07T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 84,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "70": {
+        "id": 1044951,
+        "date": "2023-11-29T18:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 99,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "71": {
+        "id": 1044952,
+        "date": "2023-10-08T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 96,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "72": {
+        "id": 1044953,
+        "date": "2023-10-21T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 95,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "73": {
+        "id": 1044954,
+        "date": "2023-10-22T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 93,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "74": {
+        "id": 1044955,
+        "date": "2023-10-22T11:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 94,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "75": {
+        "id": 1044956,
+        "date": "2023-10-22T15:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 112,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "76": {
+        "id": 1044957,
+        "date": "2023-10-22T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 106,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "77": {
+        "id": 1044958,
+        "date": "2023-10-22T18:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 99,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "78": {
+        "id": 1044959,
+        "date": "2023-10-21T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 81,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "79": {
+        "id": 1044960,
+        "date": "2023-10-22T13:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 82,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "80": {
+        "id": 1044961,
+        "date": "2023-10-20T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "81": {
+        "id": 1044962,
+        "date": "2023-10-29T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 95,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "82": {
+        "id": 1044963,
+        "date": "2023-12-06T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 80,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "83": {
+        "id": 1044964,
+        "date": "2023-10-29T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 91,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "84": {
+        "id": 1044965,
+        "date": "2023-10-27T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 84,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "85": {
+        "id": 1044966,
+        "date": "2023-10-28T15:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 97,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "86": {
+        "id": 1044967,
+        "date": "2023-10-28T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 83,
+        "goalsHome": 4,
+        "goalsAway": 0
+      },
+      "87": {
+        "id": 1044968,
+        "date": "2023-10-29T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 111,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "88": {
+        "id": 1044969,
+        "date": "2023-10-29T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 96,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "89": {
+        "id": 1044970,
+        "date": "2023-10-29T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 85,
+        "goalsHome": 2,
+        "goalsAway": 3
+      },
+      "90": {
+        "id": 1044971,
+        "date": "2023-11-03T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 82,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "91": {
+        "id": 1044972,
+        "date": "2023-11-05T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 99,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "92": {
+        "id": 1044973,
+        "date": "2023-11-05T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 111,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "93": {
+        "id": 1044974,
+        "date": "2023-11-04T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 79,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "94": {
+        "id": 1044975,
+        "date": "2023-11-04T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "95": {
+        "id": 1044976,
+        "date": "2023-11-05T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 106,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "96": {
+        "id": 1044977,
+        "date": "2023-11-05T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 112,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "97": {
+        "id": 1044978,
+        "date": "2023-11-05T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 94,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "98": {
+        "id": 1044979,
+        "date": "2023-11-05T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 93,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "99": {
+        "id": 1044980,
+        "date": "2023-11-12T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 80,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "100": {
+        "id": 1044981,
+        "date": "2023-11-12T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 96,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "101": {
+        "id": 1044982,
+        "date": "2023-11-12T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 97,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "102": {
+        "id": 1044983,
+        "date": "2023-11-11T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 85,
+        "goalsHome": 0,
+        "goalsAway": 3
+      },
+      "103": {
+        "id": 1044984,
+        "date": "2023-11-12T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 81,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "104": {
+        "id": 1044985,
+        "date": "2023-11-11T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 91,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "105": {
+        "id": 1044986,
+        "date": "2023-11-12T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 83,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "106": {
+        "id": 1044987,
+        "date": "2023-11-10T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 84,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "107": {
+        "id": 1044988,
+        "date": "2023-12-07T19:30:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 95,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "108": {
+        "id": 1044989,
+        "date": "2023-11-24T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 91,
+        "goalsHome": 5,
+        "goalsAway": 2
+      },
+      "109": {
+        "id": 1044990,
+        "date": "2023-11-25T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 81,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "110": {
+        "id": 1044991,
+        "date": "2023-11-26T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 93,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "111": {
+        "id": 1044992,
+        "date": "2023-11-26T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 112,
+        "goalsHome": 2,
+        "goalsAway": 3
+      },
+      "112": {
+        "id": 1044993,
+        "date": "2023-11-26T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 79,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "113": {
+        "id": 1044994,
+        "date": "2023-11-26T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 96,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "114": {
+        "id": 1044995,
+        "date": "2023-11-25T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 3
+      },
+      "115": {
+        "id": 1044996,
+        "date": "2023-11-26T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 111,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "116": {
+        "id": 1044997,
+        "date": "2023-11-26T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 106,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "117": {
+        "id": 1044998,
+        "date": "2023-12-03T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 97,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "118": {
+        "id": 1044999,
+        "date": "2023-12-03T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 94,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "119": {
+        "id": 1045000,
+        "date": "2023-12-03T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 82,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "120": {
+        "id": 1045001,
+        "date": "2023-12-03T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 112,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "121": {
+        "id": 1045002,
+        "date": "2023-12-01T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 95,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "122": {
+        "id": 1045003,
+        "date": "2023-12-02T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 80,
+        "goalsHome": 3,
+        "goalsAway": 2
+      },
+      "123": {
+        "id": 1045004,
+        "date": "2023-12-02T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 84,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "124": {
+        "id": 1045005,
+        "date": "2023-12-03T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 85,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "125": {
+        "id": 1045006,
+        "date": "2023-12-03T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 99,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "126": {
+        "id": 1045007,
+        "date": "2023-12-09T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 83,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "127": {
+        "id": 1045008,
+        "date": "2023-12-10T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 111,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "128": {
+        "id": 1045009,
+        "date": "2023-12-09T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 91,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "129": {
+        "id": 1045010,
+        "date": "2023-12-10T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 81,
+        "goalsHome": 2,
+        "goalsAway": 4
+      },
+      "130": {
+        "id": 1045011,
+        "date": "2023-12-10T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 96,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "131": {
+        "id": 1045012,
+        "date": "2023-12-10T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 93,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "132": {
+        "id": 1045013,
+        "date": "2023-12-10T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 79,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "133": {
+        "id": 1045014,
+        "date": "2023-12-10T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 106,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "134": {
+        "id": 1045015,
+        "date": "2023-12-08T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "135": {
+        "id": 1045016,
+        "date": "2023-12-17T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 94,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "136": {
+        "id": 1045017,
+        "date": "2023-12-17T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 99,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "137": {
+        "id": 1045018,
+        "date": "2023-12-17T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 95,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "138": {
+        "id": 1045019,
+        "date": "2023-12-15T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 80,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "139": {
+        "id": 1045020,
+        "date": "2023-12-17T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 85,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "140": {
+        "id": 1045021,
+        "date": "2023-12-16T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 93,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "141": {
+        "id": 1045022,
+        "date": "2023-12-17T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 106,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "142": {
+        "id": 1045023,
+        "date": "2023-12-16T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 84,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "143": {
+        "id": 1045024,
+        "date": "2023-12-17T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 82,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "144": {
+        "id": 1045025,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 112,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "145": {
+        "id": 1045026,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 79,
+        "goalsHome": 2,
+        "goalsAway": 1
+      },
+      "146": {
+        "id": 1045027,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 91,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "147": {
+        "id": 1045028,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 83,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "148": {
+        "id": 1045029,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 116,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "149": {
+        "id": 1045030,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 94,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "150": {
+        "id": 1045031,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 111,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "151": {
+        "id": 1045032,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 81,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "152": {
+        "id": 1045033,
+        "date": "2023-12-20T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 97,
+        "goalsHome": 4,
+        "goalsAway": 0
+      },
+      "153": {
+        "id": 1045034,
+        "date": "2024-01-13T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 84,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "154": {
+        "id": 1045035,
+        "date": "2024-01-12T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 95,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "155": {
+        "id": 1045036,
+        "date": "2024-01-13T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 93,
+        "goalsHome": 1,
+        "goalsAway": 3
+      },
+      "156": {
+        "id": 1045037,
+        "date": "2024-01-14T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 97,
+        "goalsHome": 3,
+        "goalsAway": 0
+      },
+      "157": {
+        "id": 1045038,
+        "date": "2024-01-14T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 99,
+        "goalsHome": 1,
+        "goalsAway": 2
+      },
+      "158": {
+        "id": 1045039,
+        "date": "2024-01-14T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 80,
+        "goalsHome": 3,
+        "goalsAway": 1
+      },
+      "159": {
+        "id": 1045040,
+        "date": "2024-01-14T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 96,
+        "goalsHome": 0,
+        "goalsAway": 1
+      },
+      "160": {
+        "id": 1045041,
+        "date": "2024-01-14T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 82,
+        "goalsHome": 2,
+        "goalsAway": 0
+      },
+      "161": {
+        "id": 1045042,
+        "date": "2024-01-14T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 85,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "162": {
+        "id": 1045043,
+        "date": "2024-01-28T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 106,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "163": {
+        "id": 1045044,
+        "date": "2024-01-28T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 116,
+        "goalsHome": 0,
+        "goalsAway": 2
+      },
+      "164": {
+        "id": 1045045,
+        "date": "2024-01-27T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 91,
+        "goalsHome": 2,
+        "goalsAway": 2
+      },
+      "165": {
+        "id": 1045046,
+        "date": "2024-01-28T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 111,
+        "goalsHome": 3,
+        "goalsAway": 3
+      },
+      "166": {
+        "id": 1045047,
+        "date": "2024-01-26T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 94,
+        "goalsHome": 2,
+        "goalsAway": 3
+      },
+      "167": {
+        "id": 1045048,
+        "date": "2024-01-27T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 112,
+        "goalsHome": 1,
+        "goalsAway": 0
+      },
+      "168": {
+        "id": 1045049,
+        "date": "2024-01-28T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 95,
+        "goalsHome": 1,
+        "goalsAway": 1
+      },
+      "169": {
+        "id": 1045050,
+        "date": "2024-01-28T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 83,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "170": {
+        "id": 1045051,
+        "date": "2024-01-28T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 79,
+        "goalsHome": 0,
+        "goalsAway": 0
+      },
+      "171": {
+        "id": 1045052,
+        "date": "2024-02-02T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "172": {
+        "id": 1045053,
+        "date": "2024-02-03T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "173": {
+        "id": 1045054,
+        "date": "2024-02-04T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "174": {
+        "id": 1045055,
+        "date": "2024-02-04T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "175": {
+        "id": 1045056,
+        "date": "2024-02-04T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "176": {
+        "id": 1045057,
+        "date": "2024-02-04T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "177": {
+        "id": 1045058,
+        "date": "2024-02-03T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "178": {
+        "id": 1045059,
+        "date": "2024-02-04T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "179": {
+        "id": 1045060,
+        "date": "2024-02-04T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "180": {
+        "id": 1045061,
+        "date": "2024-02-10T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "181": {
+        "id": 1045062,
+        "date": "2024-02-11T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "182": {
+        "id": 1045063,
+        "date": "2024-02-09T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "183": {
+        "id": 1045064,
+        "date": "2024-02-11T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "184": {
+        "id": 1045065,
+        "date": "2024-02-11T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "185": {
+        "id": 1045066,
+        "date": "2024-02-11T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "186": {
+        "id": 1045067,
+        "date": "2024-02-10T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "187": {
+        "id": 1045068,
+        "date": "2024-02-11T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "188": {
+        "id": 1045069,
+        "date": "2024-02-11T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "189": {
+        "id": 1045070,
+        "date": "2024-02-18T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "190": {
+        "id": 1045071,
+        "date": "2024-02-18T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "191": {
+        "id": 1045072,
+        "date": "2024-02-18T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "192": {
+        "id": 1045073,
+        "date": "2024-02-17T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "193": {
+        "id": 1045074,
+        "date": "2024-02-16T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "194": {
+        "id": 1045075,
+        "date": "2024-02-18T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "195": {
+        "id": 1045076,
+        "date": "2024-02-17T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "196": {
+        "id": 1045077,
+        "date": "2024-02-18T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "197": {
+        "id": 1045078,
+        "date": "2024-02-18T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "198": {
+        "id": 1045079,
+        "date": "2024-02-25T16:05:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "199": {
+        "id": 1045080,
+        "date": "2024-02-24T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "200": {
+        "id": 1045081,
+        "date": "2024-02-25T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "201": {
+        "id": 1045082,
+        "date": "2024-02-25T19:45:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "202": {
+        "id": 1045083,
+        "date": "2024-02-24T16:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "203": {
+        "id": 1045084,
+        "date": "2024-02-25T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "204": {
+        "id": 1045085,
+        "date": "2024-02-25T12:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "205": {
+        "id": 1045086,
+        "date": "2024-02-25T14:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "206": {
+        "id": 1045087,
+        "date": "2024-02-23T20:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "207": {
+        "id": 1045088,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "208": {
+        "id": 1045089,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "209": {
+        "id": 1045090,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "210": {
+        "id": 1045091,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "211": {
+        "id": 1045092,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "212": {
+        "id": 1045093,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "213": {
+        "id": 1045094,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "214": {
+        "id": 1045095,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "215": {
+        "id": 1045096,
+        "date": "2024-03-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "216": {
+        "id": 1045097,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "217": {
+        "id": 1045098,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "218": {
+        "id": 1045099,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "219": {
+        "id": 1045100,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "220": {
+        "id": 1045101,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "221": {
+        "id": 1045102,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "222": {
+        "id": 1045103,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "223": {
+        "id": 1045104,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "224": {
+        "id": 1045105,
+        "date": "2024-03-10T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "225": {
+        "id": 1045106,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "226": {
+        "id": 1045107,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "227": {
+        "id": 1045108,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "228": {
+        "id": 1045109,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "229": {
+        "id": 1045110,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "230": {
+        "id": 1045111,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "231": {
+        "id": 1045112,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "232": {
+        "id": 1045113,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "233": {
+        "id": 1045114,
+        "date": "2024-03-17T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "234": {
+        "id": 1045115,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "235": {
+        "id": 1045116,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "236": {
+        "id": 1045117,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "237": {
+        "id": 1045118,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "238": {
+        "id": 1045119,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "239": {
+        "id": 1045120,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "240": {
+        "id": 1045121,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "241": {
+        "id": 1045122,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "242": {
+        "id": 1045123,
+        "date": "2024-03-31T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "243": {
+        "id": 1045124,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "244": {
+        "id": 1045125,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "245": {
+        "id": 1045126,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "246": {
+        "id": 1045127,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "247": {
+        "id": 1045128,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "248": {
+        "id": 1045129,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "249": {
+        "id": 1045130,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "250": {
+        "id": 1045131,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "251": {
+        "id": 1045132,
+        "date": "2024-04-07T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "252": {
+        "id": 1045133,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "253": {
+        "id": 1045134,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "254": {
+        "id": 1045135,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "255": {
+        "id": 1045136,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "256": {
+        "id": 1045137,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "257": {
+        "id": 1045138,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "258": {
+        "id": 1045139,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "259": {
+        "id": 1045140,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "260": {
+        "id": 1045141,
+        "date": "2024-04-14T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "261": {
+        "id": 1045142,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "262": {
+        "id": 1045143,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "263": {
+        "id": 1045144,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "264": {
+        "id": 1045145,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "265": {
+        "id": 1045146,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "266": {
+        "id": 1045147,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "267": {
+        "id": 1045148,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "268": {
+        "id": 1045149,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "269": {
+        "id": 1045150,
+        "date": "2024-04-21T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "270": {
+        "id": 1045151,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "271": {
+        "id": 1045152,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "272": {
+        "id": 1045153,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "273": {
+        "id": 1045154,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "274": {
+        "id": 1045155,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "275": {
+        "id": 1045156,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "276": {
+        "id": 1045157,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "277": {
+        "id": 1045158,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "278": {
+        "id": 1045159,
+        "date": "2024-04-28T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "279": {
+        "id": 1045160,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "280": {
+        "id": 1045161,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "281": {
+        "id": 1045162,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "282": {
+        "id": 1045163,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "283": {
+        "id": 1045164,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "284": {
+        "id": 1045165,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "285": {
+        "id": 1045166,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "286": {
+        "id": 1045167,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "287": {
+        "id": 1045168,
+        "date": "2024-05-03T00:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "288": {
+        "id": 1045169,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 85,
+        "awayTeamId": 96,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "289": {
+        "id": 1045170,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 95,
+        "awayTeamId": 112,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "290": {
+        "id": 1045171,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 94,
+        "awayTeamId": 116,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "291": {
+        "id": 1045172,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 81,
+        "awayTeamId": 97,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "292": {
+        "id": 1045173,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 84,
+        "awayTeamId": 111,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "293": {
+        "id": 1045174,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 99,
+        "awayTeamId": 80,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "294": {
+        "id": 1045175,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 83,
+        "awayTeamId": 79,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "295": {
+        "id": 1045176,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 82,
+        "awayTeamId": 91,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "296": {
+        "id": 1045177,
+        "date": "2024-05-11T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 106,
+        "awayTeamId": 93,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "297": {
+        "id": 1045178,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 96,
+        "awayTeamId": 106,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "298": {
+        "id": 1045179,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 97,
+        "awayTeamId": 99,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "299": {
+        "id": 1045180,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 91,
+        "awayTeamId": 83,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "300": {
+        "id": 1045181,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 79,
+        "awayTeamId": 84,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "301": {
+        "id": 1045182,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 80,
+        "awayTeamId": 95,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "302": {
+        "id": 1045183,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 93,
+        "awayTeamId": 94,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "303": {
+        "id": 1045184,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 116,
+        "awayTeamId": 82,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "304": {
+        "id": 1045185,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 111,
+        "awayTeamId": 81,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "305": {
+        "id": 1045186,
+        "date": "2024-05-18T19:00:00+00:00",
+        "leagueId": 61,
+        "homeTeamId": 112,
+        "awayTeamId": 85,
+        "goalsHome": null,
+        "goalsAway": null
+      },
+      "id": "8608"
+    }
+  ]
+}
