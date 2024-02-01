@@ -8,7 +8,6 @@ const Fixtures = () => {
     axios
       .get("http://localhost:5001/api/fixtures")
       .then((response) => {
-        console.log(response.data);
         setFixtures(response.data);
       })
       .catch((error) => {
@@ -20,7 +19,6 @@ const Fixtures = () => {
     axios
       .get("http://localhost:5001/fixtures")
       .then((response) => {
-        console.log(response.data);
         setFixtures(response.data);
       })
       .catch((error) => {
@@ -34,8 +32,9 @@ const Fixtures = () => {
 
   return (
     <div className="fixture-container">
+      <h2>Fixtures</h2>
       <button onClick={updateFixtures}>Mise à jour</button>
-      <h1>Fixtures</h1>
+
       <table>
         <thead>
           <tr>

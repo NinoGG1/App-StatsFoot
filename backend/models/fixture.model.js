@@ -4,6 +4,7 @@ const fixtureSchema = mongoose.Schema({
   id: {
     type: Number,
     required: true,
+    unique: true,
   },
   date: {
     type: String,
@@ -42,6 +43,10 @@ const fixtureSchema = mongoose.Schema({
     required: false,
   },
   status: {
+    type: String,
+    required: true,
+  },
+  leagueId: {
     type: String,
     required: true,
   },

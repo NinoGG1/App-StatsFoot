@@ -15,10 +15,12 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // Route API vers DB
-app.use("/api/fixtures", require("./routes/api.router"));
+app.use("/api", require("./routes/api.router"));
 
 // Routes DB vers App
 app.use("/fixtures", require("./routes/fixtures.router"));
+app.use("/teams", require("./routes/teams.router"));
+app.use("/leagues", require("./routes/leagues.router"));
 
 // Lancement du serveur
 app.listen(port, () => console.log("Serveur démarré au port : " + port));

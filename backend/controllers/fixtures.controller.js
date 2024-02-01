@@ -1,5 +1,6 @@
 const { default: axios } = require("axios");
 const FixtureModel = require("../models/fixture.model");
+require("dotenv").config();
 
 module.exports.setFixture = async (req, res) => {
   try {
@@ -7,12 +8,12 @@ module.exports.setFixture = async (req, res) => {
       method: "GET",
       url: "https://v3.football.api-sports.io/fixtures/",
       params: {
-        league: "61",
+        league: 61,
         season: "2023",
       },
       headers: {
-        "X-RapidAPI-Key": "1e61f40278b492243dd860f58c8d7540",
-        "X-RapidAPI-Host": "v3.football.api-sports.io",
+        "X-RapidAPI-Key": process.env.RAPIDAPI_KEY,
+        "X-RapidAPI-Host": process.env.RAPIDAPI_HOST,
       },
     });
 
@@ -34,6 +35,7 @@ module.exports.setFixture = async (req, res) => {
         homePenalties: data.score.penalty.home,
         awayPenalties: data.score.penalty.away,
         status: data.fixture.status.long,
+        leagueId: data.league.id,
       };
 
       // Mettez à jour le document existant ou insérez un nouveau document
