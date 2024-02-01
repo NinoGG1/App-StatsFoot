@@ -4,10 +4,11 @@
 
 $font1: "font1", sans-serif;
 
-$color1: #61dafb;
-$color2: salmon;
-$color3: #282c34;
-$white1: rgb(243, 243, 243);
+$color1: #011e29;
+$color2: #010a10;
+$color3: #c80037;
+$grey1: #eeeeee;
+$white1: rgb(252, 252, 252);
 
 @mixin verticalCenter {
   display: flex;
@@ -22,7 +23,8 @@ $white1: rgb(243, 243, 243);
 }
 
 body {
-  background: $white1;
+  color: $white1;
+  background: $color2;
   font-family: $font1;
   // @include verticalCenter;
 }

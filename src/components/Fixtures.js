@@ -1,5 +1,16 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import {
+  Table,
+  Thead,
+  Tbody,
+  Tfoot,
+  Tr,
+  Th,
+  Td,
+  TableCaption,
+  TableContainer,
+} from "@chakra-ui/react";
 
 const Fixtures = () => {
   const [fixtures, setFixtures] = useState([]);
@@ -35,7 +46,40 @@ const Fixtures = () => {
       <h2>Fixtures</h2>
       <button onClick={updateFixtures}>Mise à jour</button>
 
-      <table>
+      <TableContainer>
+        <Table variant="simple">
+          <Thead>
+            <Tr>
+              <Th>ID</Th>
+              <Th>Date</Th>
+              <Th>League</Th>
+              <Th>Round</Th>
+              <Th>Home</Th>
+              <Th>Away</Th>
+              <Th>H.Goals</Th>
+              <Th>A.Goals</Th>
+              <Th>Statut</Th>
+            </Tr>
+          </Thead>
+          <Tbody>
+            {fixtures.map((fixture, index) => (
+              <Tr key={index}>
+                <Td>{fixture.id}</Td>
+                <Td>{new Date(fixture.date).toLocaleDateString()}</Td>
+                <Td>{fixture.league}</Td>
+                <Td>{fixture.round}</Td>
+                <Td>{fixture.homeTeam}</Td>
+                <Td>{fixture.awayTeam}</Td>
+                <Td>{fixture.homeGoals}</Td>
+                <Td>{fixture.awayGoals}</Td>
+                <Td>{fixture.status === "Match Finished" ? "Terminé" : " "}</Td>
+              </Tr>
+            ))}
+          </Tbody>
+        </Table>
+      </TableContainer>
+
+      {/* <table>
         <thead>
           <tr>
             <th>ID</th>
@@ -64,7 +108,7 @@ const Fixtures = () => {
             </tr>
           ))}
         </tbody>
-      </table>
+      </table> */}
     </div>
   );
 };
