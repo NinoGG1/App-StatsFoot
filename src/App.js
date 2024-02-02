@@ -1,7 +1,10 @@
 import React from "react";
 import Fixtures from "./components/Fixtures";
 import Teams from "./components/Teams";
-import { ChakraProvider, extendTheme } from "@chakra-ui/react";
+import { Box, ChakraProvider, Flex, extendTheme } from "@chakra-ui/react";
+import Header from "./components/Header";
+import SideMenu from "./components/SideMenu";
+import { ContextProvider } from "./contexts/Index";
 
 const theme = extendTheme({
   colors: {
@@ -15,10 +18,24 @@ const theme = extendTheme({
 
 const App = () => {
   return (
-    <ChakraProvider theme={theme}>
-      <Teams />
-      <Fixtures />
-    </ChakraProvider>
+    <ContextProvider>
+      <ChakraProvider theme={theme}>
+        <Box bg="color1" color="grey1" minHeight="100vh">
+          <Box maxW="1400px" mx="auto">
+            <Header />
+            <Flex>
+              <Box flex="1">
+                <SideMenu />
+              </Box>
+              <Box flex="1">
+                <Teams />
+                <Fixtures />
+              </Box>
+            </Flex>
+          </Box>
+        </Box>
+      </ChakraProvider>
+    </ContextProvider>
   );
 };
 

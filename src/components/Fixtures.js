@@ -4,11 +4,9 @@ import {
   Table,
   Thead,
   Tbody,
-  Tfoot,
   Tr,
   Th,
   Td,
-  TableCaption,
   TableContainer,
 } from "@chakra-ui/react";
 
@@ -49,16 +47,16 @@ const Fixtures = () => {
       <TableContainer>
         <Table variant="simple">
           <Thead>
-            <Tr>
-              <Th>ID</Th>
-              <Th>Date</Th>
-              <Th>League</Th>
-              <Th>Round</Th>
-              <Th>Home</Th>
-              <Th>Away</Th>
-              <Th>H.Goals</Th>
-              <Th>A.Goals</Th>
-              <Th>Statut</Th>
+            <Tr bg="color2">
+              <Th color="white1">ID</Th>
+              <Th color="white1">Date</Th>
+              <Th color="white1">League</Th>
+              <Th color="white1">Round</Th>
+              <Th color="white1">Home</Th>
+              <Th color="white1">Away</Th>
+              <Th color="white1">H.Goals</Th>
+              <Th color="white1">A.Goals</Th>
+              <Th color="white1">Statut</Th>
             </Tr>
           </Thead>
           <Tbody>

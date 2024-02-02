@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import { Table, Thead, Tbody, Tr, Th, Td, Button } from "@chakra-ui/react";
 
 function LeaguesList() {
   const [leagues, setLeagues] = useState([]);
@@ -45,34 +46,32 @@ function LeaguesList() {
   );
 
   return (
-    <div>
-      <table>
-        <thead>
-          <tr>
-            {leagues.map((league) => (
-              <th key={league.id}>
-                <button onClick={() => handleButtonClick(league.id)}>
-                  {league.name}
-                </button>
-              </th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {Array.from({ length: maxTeams }).map((_, i) => (
-            <tr key={i}>
-              {leagues.map((league) => (
-                <td key={league.id}>
-                  {teamsByLeague[league.id] && teamsByLeague[league.id][i]
-                    ? teamsByLeague[league.id][i].name
-                    : ""}
-                </td>
-              ))}
-            </tr>
+    <Table variant="simple">
+      <Thead>
+        <Tr>
+          {leagues.map((league) => (
+            <Th key={league.id}>
+              <Button onClick={() => handleButtonClick(league.id)}>
+                {league.name}
+              </Button>
+            </Th>
           ))}
-        </tbody>
-      </table>
-    </div>
+        </Tr>
+      </Thead>
+      <Tbody>
+        {Array.from({ length: maxTeams }).map((_, i) => (
+          <Tr key={i}>
+            {leagues.map((league) => (
+              <Td key={league.id}>
+                {teamsByLeague[league.id] && teamsByLeague[league.id][i]
+                  ? teamsByLeague[league.id][i].name
+                  : ""}
+              </Td>
+            ))}
+          </Tr>
+        ))}
+      </Tbody>
+    </Table>
   );
 }
 
